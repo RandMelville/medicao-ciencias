@@ -11,6 +11,14 @@ Suponha que você coletou dados de temperatura diária durante uma semana. Os da
 ### Passo 3: Utilização do Matplotlib para Visualização
 ### Passo 4: Utilização do SciPy para Regressão Linear
 
+## Como enviar a solução
+
+1. Clone este repositório para o seu ambiente de desenvolvimento local:
+2. Escreva sua solução para o problema no arquivo Python correspondente.
+4. Teste sua solução localmente para garantir que funcione conforme esperado.
+5. Submeta sua solução como um pull request.
+
+
 
 
 
